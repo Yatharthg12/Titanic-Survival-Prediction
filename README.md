@@ -1,3 +1,5 @@
+Titanic Survival Prediction - Using ML Algorithms
+
 Source for data: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 Procedure:
@@ -24,6 +26,7 @@ DecisionTree - 0.76
 Best Performing Model - RandomForest (0.83 accuracy)
 
 Required Libraries for Installation: pandas numpy scikit-learn matplotlib seaborn
+Note: Both the files uploaded (app.py and Titanic_Survival_Project.ipynb are the same, the ipynb is there to view step by step procedure of how the program runs block wise. The app.py is full file for download.
 
 Author:
 Yatharth Garg
